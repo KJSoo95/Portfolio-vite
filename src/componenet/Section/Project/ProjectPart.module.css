@@ -1,0 +1,27 @@
+.ProjectPartWrapper {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.wrapper {
+  height: 50%;
+}
+
+.img {
+  width: 90%;
+  height: 100%;
+  border-radius: 25px;
+  cursor: pointer;
+}
+
+h2{
+  margin: 20px;
+}
+
+p{
+  padding: 0 10px;
+  /* border-right: 1px solid #000;
+  border-left: 1px solid #000;; */
+}
+

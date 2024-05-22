@@ -1,0 +1,8 @@
+.section{
+    margin-bottom: 100px;
+}
+
+.partWrapper{
+    display: flex;
+    flex-direction: row;
+}

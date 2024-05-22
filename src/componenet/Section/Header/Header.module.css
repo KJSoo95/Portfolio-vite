@@ -1,0 +1,15 @@
+.opacityImg {
+  background: url(../../../images/mainbg2.jpg) no-repeat center center;
+  background-size: cover;
+  width: 97vw;
+  height: 96vh;
+  margin-top: 20px;
+}
+
+.homeHeading {
+  position: absolute;
+  top: 45%;
+  left: 10%;
+  font-size: 3rem;
+  /* white-space: nowrap; */
+}
